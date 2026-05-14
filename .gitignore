@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Kaggle and generated artifacts
+/data/raw/*
+/models/*
+/submissions/*
+/reports/tables/*
+
+# Keep directory placeholders
+!/data/raw/.gitkeep
+!/submissions/.gitkeep
+!/reports/tables/.gitkeep
