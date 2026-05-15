@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/your_image.png" alt="Predicting F1 Pit Stops Header" width="800">
+  <img src="pit_stop.png" alt="Predicting F1 Pit Stops Header" width="800">
 </p>
 
 # Predicting F1 Pit Stops
