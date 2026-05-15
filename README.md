@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="path/to/your_image.png" alt="Predicting F1 Pit Stops Header" width="800">
+</p>
+
 # Predicting F1 Pit Stops
 
 Public Kaggle project for [Playground Series - Season 6 Episode 5](https://www.kaggle.com/competitions/playground-series-s6e5). The task is to predict the probability that a Formula 1 driver pits on the next lap.
